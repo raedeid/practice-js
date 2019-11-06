@@ -11,4 +11,7 @@ function Information(Age , user){
     }
     return greeting    
     }
+function    
 document.write( '<h3>' + Information(Age_of_customer,Username_of_customer) + '</h3>'); 
+
+
