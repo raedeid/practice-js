@@ -1,5 +1,3 @@
-
-
 function shopping(){
     var number_of_thing = prompt("how many thing you want to buy ?");
     while (isNaN(number_of_thing)  || number_of_thing == '' ){
@@ -10,10 +8,4 @@ function shopping(){
         document.write('<img src="'+'images/hotel.png' +'"/>');
    }
 }
-
-
-shopping()
-
-
-
-
+shopping();
